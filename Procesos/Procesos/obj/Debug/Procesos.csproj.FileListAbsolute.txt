@@ -1,0 +1,6 @@
+c:\users\dosis\documents\visual studio 2015\Projects\Procesos\Procesos\bin\Debug\Procesos.exe.config
+c:\users\dosis\documents\visual studio 2015\Projects\Procesos\Procesos\bin\Debug\Procesos.exe
+c:\users\dosis\documents\visual studio 2015\Projects\Procesos\Procesos\bin\Debug\Procesos.pdb
+c:\users\dosis\documents\visual studio 2015\Projects\Procesos\Procesos\obj\Debug\Procesos.csprojResolveAssemblyReference.cache
+c:\users\dosis\documents\visual studio 2015\Projects\Procesos\Procesos\obj\Debug\Procesos.exe
+c:\users\dosis\documents\visual studio 2015\Projects\Procesos\Procesos\obj\Debug\Procesos.pdb

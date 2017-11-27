@@ -1,0 +1,9 @@
+c:\Users\DOSIS\documents\visual studio 2015\Projects\Procesos\UnitTestCalculo\bin\Debug\UnitTestCalculo.dll
+c:\Users\DOSIS\documents\visual studio 2015\Projects\Procesos\UnitTestCalculo\bin\Debug\UnitTestCalculo.pdb
+c:\Users\DOSIS\documents\visual studio 2015\Projects\Procesos\UnitTestCalculo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\DOSIS\documents\visual studio 2015\Projects\Procesos\UnitTestCalculo\bin\Debug\Procesos.exe
+c:\Users\DOSIS\documents\visual studio 2015\Projects\Procesos\UnitTestCalculo\bin\Debug\Procesos.pdb
+c:\Users\DOSIS\documents\visual studio 2015\Projects\Procesos\UnitTestCalculo\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\Users\DOSIS\documents\visual studio 2015\Projects\Procesos\UnitTestCalculo\obj\Debug\UnitTestCalculo.csprojResolveAssemblyReference.cache
+c:\Users\DOSIS\documents\visual studio 2015\Projects\Procesos\UnitTestCalculo\obj\Debug\UnitTestCalculo.dll
+c:\Users\DOSIS\documents\visual studio 2015\Projects\Procesos\UnitTestCalculo\obj\Debug\UnitTestCalculo.pdb
